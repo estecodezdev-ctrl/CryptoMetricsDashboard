@@ -32,8 +32,7 @@ Cómo ejecutar el Proyecto
 
 2. Ejecutar el proyecto desde la terminal navegando entre las carpetas, desde la carpeta padre TradingViews viajamos hasta la carpeta TRADINGVIEW (cd frontend , cd TRADINGVIEW).
 3. Una vez en esta carpeta inicilizamos el proyecto con el comando npm run dev. podremos observar esto:
-4.<img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/2aa97a7c-5567-4dd7-ba77-ac0cee9ff153" />
-
-5.<img width="1913" height="954" alt="image" src="https://github.com/user-attachments/assets/3fd939c6-157e-4fa7-87f3-5221f3391fcb" />
+<img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/2aa97a7c-5567-4dd7-ba77-ac0cee9ff153" />
+<img width="1913" height="954" alt="image" src="https://github.com/user-attachments/assets/3fd939c6-157e-4fa7-87f3-5221f3391fcb" />
 
 Ademas, cada tabla es responsiva al momento de pasar el mouse se realizara la animacion de transform ;)
