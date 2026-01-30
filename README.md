@@ -35,9 +35,3 @@ Cómo ejecutar el Proyecto
 4. <img width="1902" height="947" alt="image" src="https://github.com/user-attachments/assets/04eb1836-a924-459b-b0dc-c6456bd885b5" />
 5. <img width="1896" height="943" alt="image" src="https://github.com/user-attachments/assets/ff22c6c8-78ce-4207-97b4-bd30b3eb7847" />
 Ademas, cada tabla es responsiva al momento de pasar el mouse se realizara la animacion de transform ;)
-
-   
-# CryptoMetricsDashboard
-# CryptoMetricsDashboard
-# CryptoMetricsDashboard
-# CryptoMetricsDashboard
